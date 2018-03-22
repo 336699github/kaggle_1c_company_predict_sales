@@ -1,5 +1,5 @@
-# kaggle_1c_company_predict_sales
-1c company - predict future sales (Kaggle) 
+# kaggle_1c_company_predict_sales    
+1c company - predict future sales (Kaggle)    
 This is the solution for the ‘1C company, predict future sales’ competition, which serves as Final project for "How to win a data science competition" Coursera course.   
 I ranked 6th on the public leaderboard out of 388 participants.   
 https://www.kaggle.com/c/competitive-data-science-final-project/leaderboard    
