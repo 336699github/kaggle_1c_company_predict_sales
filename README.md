@@ -1,8 +1,8 @@
 # kaggle_1c_company_predict_sales    
 1c company - predict future sales (Kaggle)    
 This is the solution for the ‘1C company, predict future sales’ competition.   
-I ranked 6th on the public leaderboard out of 388 participants. 
-(username Excalibur. this project is ongoing, ranking may change)
+I ranked 6th on the public leaderboard out of 388 participants.   
+(username Excalibur. this project is ongoing, ranking may change)   
 https://www.kaggle.com/c/competitive-data-science-final-project/leaderboard    
 
 
