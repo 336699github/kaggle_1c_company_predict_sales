@@ -9,7 +9,6 @@ import pandas as pd
 import data_split
 
 df_this_month,cols_to_drop=extract_clean_data.go()
-   df_this_month=cPickle.load(handle)
 
 
 feats_to_enc=['shop_id','item_id','item_category_id','month','year']
